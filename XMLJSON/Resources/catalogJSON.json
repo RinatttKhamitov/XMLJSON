@@ -1,0 +1,42 @@
+{
+  "catalog": {
+    "part": [
+      {
+        "name": "Двигатель",
+        "description": "Используется для машины",
+        "brand": "Subaru",
+        "model": "A12",
+        "price": 420,
+        "compatibility": {
+          "make": "Subaru",
+          "model": "F-150",
+          "year": 2010
+        }
+      },
+      {
+        "name": "Масляный фильтр",
+        "description": "Фильтр, используемый для удаления загрязняющих веществ из масла.",
+        "brand": "ACME",
+        "model": "B456",
+        "price": 5,
+        "compatibility": {
+          "make": "Chevrolet",
+          "model": "Malibu",
+          "year": 2018
+        }
+      },
+      {
+        "name": "Тормозной ротор",
+        "description": "Диск, используемый для остановки транспортного средства.",
+        "brand": "ACME",
+        "model": "LMN789",
+        "price": 50,
+        "compatibility": {
+          "make": "Toyota",
+          "model": "Camry",
+          "year": 2012
+        }
+      }
+    ]
+  }
+}

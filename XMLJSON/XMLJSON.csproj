@@ -82,6 +82,7 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
+    <None Include="Resources\catalogJSON.json" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
@@ -91,6 +92,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="bin\Debug\catalog.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\catalog.xml" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

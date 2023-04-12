@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog>
+    <part id="1">
+        <name>Двигатель</name>
+        <description>Используется для машины</description>
+        <brand>Subaru</brand>
+        <model>A12</model>
+        <price currency="USD">420.00</price>
+        <compatibility>
+            <make>Subaru</make>
+            <model>F-150</model>
+            <year>2010</year>
+        </compatibility>
+    </part>
+    <part id="2">
+        <name>Масляный фильтр</name>
+        <description>Фильтр, используемый для удаления загрязняющих веществ из масла.</description>
+        <brand>ACME</brand>
+        <model>B456</model>
+		<price currency="USD">5.00</price>
+        <compatibility>
+            <make>Chevrolet</make>
+            <model>Malibu</model>
+            <year>2018</year>
+        </compatibility>
+    </part>
+    <part id="3">
+        <name>Тормозной ротор</name>
+        <description>Диск, используемый для остановки транспортного средства.</description>
+        <brand>ACME</brand>
+        <model>LMN789</model>
+        <price currency="USD">50.00</price>
+        <compatibility>
+            <make>Toyota</make>
+            <model>Camry</model>
+            <year>2012</year>
+        </compatibility>
+    </part>
+</catalog>
